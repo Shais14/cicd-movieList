@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+.container-fluid { 
+    padding-top: 50px;
+    padding-bottom: 50px;
+    }
+
+.container {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+    
+body {
+
+    background-color: #bbbef9;
+}
